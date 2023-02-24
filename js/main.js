@@ -6,5 +6,6 @@ import {
     handleTimerClick
 } from './handlers.js';
 
+
 dateRange.addEventListener('click', handleCalcFormClick);
 timer.addEventListener('click', handleTimerClick);
